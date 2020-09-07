@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "icons": { 
+    "16": "EyeOverBrain16x16.png",
+    "48": "EyeOverBrain48x48.png",
+   "128": "EyeOverBrain128x128.png" 
+  },
+  "name": "Bookmark & History Fuzzy Search",
+  "description": "This extension will allow you to fuzzy string search through your bookmarks and history from the omnibox using the keyword \"dl\".",
+  "version": "0.0.3",
+  "browser_action": {
+    "default_icon": "EyeOverBrain1024x1024.png"
+  },
+  "permissions": [     
+    "tabs",
+    "bookmarks",
+    "history"
+  ],
+  "omnibox": { "keyword" : "dl" },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "homepage_url": "https://bradbarrows.com/posts/chromeSearchExtension"
+}
