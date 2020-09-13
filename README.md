@@ -12,3 +12,5 @@ When the nim keyword is used the remaining text is used to build a url setting t
 
 Hope this is helpful.
 
+
+![Animated gif showing usage of the chrome plugin](usage.gif)
