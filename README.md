@@ -14,3 +14,6 @@ Hope this is helpful.
 
 
 ![Animated gif showing usage of the chrome plugin](usage.gif)
+
+
+[More information on my blog](https://bradbarrows.com/post/chromesearchextension)
