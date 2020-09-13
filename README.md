@@ -17,3 +17,6 @@ Hope this is helpful.
 
 
 [More information on my blog](https://bradbarrows.com/post/chromesearchextension)
+
+
+[Link to the extension in the app store - https://chrome.google.com/webstore/detail/bookmark-history-fuzzy-se/ahckmbemdipobmogmbpmbailnhfpjnbm?hl=en&authuser=0](https://chrome.google.com/webstore/detail/bookmark-history-fuzzy-se/ahckmbemdipobmogmbpmbailnhfpjnbm?hl=en&authuser=0)
